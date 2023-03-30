@@ -939,7 +939,7 @@
    <dependency> 
      <groupId>net.sf.json-lib</groupId> 
      <artifactId>json-lib</artifactId> 
-     <version>2.2.3</version> 
+     <version>2.4</version> 
      <classifier>jdk15</classifier>
    </dependency>
    <dependency>
@@ -1541,12 +1541,12 @@
   <ant.version>1.8.4</ant.version>
   <imageio-ext.version>1.1.10</imageio-ext.version>
   <java.awt.headless>true</java.awt.headless>
-  <jvm.opts></jvm.opts>
+  <jvm.opts/>
   <jalopy.phase>disabled</jalopy.phase>
   <jalopy.srcExcludesPattern>disabled</jalopy.srcExcludesPattern>
   <test.maxHeapSize>512M</test.maxHeapSize>
   <test.maxPermSize>128M</test.maxPermSize>
-  <test.excludedGroups></test.excludedGroups>
+  <test.excludedGroups/>
   <test.exclude.pattern>none</test.exclude.pattern>
   <quietTests>true</quietTests>
   <remoteOwsTests>false</remoteOwsTests>
