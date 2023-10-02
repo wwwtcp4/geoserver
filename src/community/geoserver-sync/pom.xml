@@ -75,7 +75,7 @@
             </snapshots>
         </repository>
 		<repository>
-			<releases />
+			<releases/>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -143,13 +143,13 @@
 		<dependency>	
 			<groupId>com.mycila</groupId>
 			<artifactId>license-maven-plugin</artifactId>
-			<version>2.3</version>
+			<version>4.0</version>
 			<type>maven-plugin</type>
 		</dependency>
 			<dependency>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>exec-maven-plugin</artifactId>
-				<version>1.1.1</version>
+				<version>3.0.0</version>
 			</dependency>
 		<dependency>
 			<groupId>net.java.dev.jai-imageio</groupId>
