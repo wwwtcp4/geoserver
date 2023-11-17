@@ -75,7 +75,7 @@
             </snapshots>
         </repository>
 		<repository>
-			<releases />
+			<releases/>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -149,7 +149,7 @@
 			<dependency>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>exec-maven-plugin</artifactId>
-				<version>1.1.1</version>
+				<version>3.1.1</version>
 			</dependency>
 		<dependency>
 			<groupId>net.java.dev.jai-imageio</groupId>
