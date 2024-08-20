@@ -1535,18 +1535,18 @@
   <gt.version>12.0.1</gt.version>
   <gwc.version>1.6.0</gwc.version>
   <spring.version>3.1.4.RELEASE</spring.version>
-  <spring.security.version>3.1.0.RELEASE</spring.security.version> 
+  <spring.security.version>5.8.14</spring.security.version> 
   <poi.version>3.8</poi.version>
   <wicket.version>1.4.12</wicket.version>
   <ant.version>1.8.4</ant.version>
   <imageio-ext.version>1.1.10</imageio-ext.version>
   <java.awt.headless>true</java.awt.headless>
-  <jvm.opts></jvm.opts>
+  <jvm.opts/>
   <jalopy.phase>disabled</jalopy.phase>
   <jalopy.srcExcludesPattern>disabled</jalopy.srcExcludesPattern>
   <test.maxHeapSize>512M</test.maxHeapSize>
   <test.maxPermSize>128M</test.maxPermSize>
-  <test.excludedGroups></test.excludedGroups>
+  <test.excludedGroups/>
   <test.exclude.pattern>none</test.exclude.pattern>
   <quietTests>true</quietTests>
   <remoteOwsTests>false</remoteOwsTests>
